@@ -1,0 +1,74 @@
+path: datasets/FoodBD/root/FoodBD
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: achar
+  1: apple
+  2: badam
+  3: banana
+  4: beef
+  5: begun-vaji
+  6: beguni
+  7: biriyani
+  8: bread
+  9: burinda
+  10: cabbage
+  11: carrot
+  12: cauliflower
+  13: cha
+  14: chichinga-vaji
+  15: chicken
+  16: chola
+  17: chomchom
+  18: chop-alu
+  19: cucumber
+  20: daal
+  21: dates
+  22: dundol
+  23: egg
+  24: egg-boiled
+  25: egg-poached
+  26: fish
+  27: grapes
+  28: green-pea
+  29: guava
+  30: jilapi
+  31: juice
+  32: kabab
+  33: khichuri
+  34: kochu
+  35: korola-vaji
+  36: kumra-vaji
+  37: lal-shak
+  38: lau
+  39: lemon
+  40: mango
+  41: milk
+  42: noodles
+  43: okra
+  44: orange
+  45: papaya
+  46: payesh
+  47: peyaju
+  48: pineapple
+  49: piyaju
+  50: potato
+  51: potato-mashed
+  52: potol
+  53: puffed-rice
+  54: puri
+  55: rice
+  56: roll
+  57: ruti
+  58: salad
+  59: shak
+  60: shim
+  61: sweets
+  62: tomato
+  63: vaji
+  64: vegetable
+  65: vorta
+  66: watermelon
