@@ -12,19 +12,19 @@ __pycache__/
 datasets/
 
 # Model weights
-models/
-*.pt
-*.pth
-*.onnx
+# models/
+# *.pt
+# *.pth
+# *.onnx
 
 # Training outputs
 outputs/
 
 # Checkpoints
-checkpoints/
+# checkpoints/
 
 # Jupyter temporary files
-.ipynb_checkpoints/
+# .ipynb_checkpoints/
 
 # VS Code settings
 .vscode/
