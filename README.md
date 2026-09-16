@@ -58,31 +58,3 @@ YOLO Output   ViT-LSTM Refinement
 The model is trained and evaluated on a merged multi-food dataset containing diverse food images with multiple food instances per image.
 
 Evaluation is performed on a test set of **2786 images**.
-
-## Results
-
-### YOLO26n-Seg Baseline
-
-| Metric    | Score |
-| --------- | ----: |
-| Precision | 0.674 |
-| Recall    | 0.513 |
-| mAP50     | 0.534 |
-| mAP50-95  | 0.492 |
-
-### YOLO + ViT-LSTM Hybrid Pipeline
-
-| Metric    | Score |
-| --------- | ----: |
-| Precision | 0.981 |
-| Recall    | 0.833 |
-| F1 Score  | 0.901 |
-
-The hybrid approach demonstrates improved recognition capability by combining YOLO's strong localization ability with ViT-LSTM's fine-grained classification capability.
-
-## Future Work
-
-* Nutrition estimation from detected food portions
-* Calorie and nutrient prediction
-* Real-time mobile deployment
-* Portion size estimation using segmentation masks
