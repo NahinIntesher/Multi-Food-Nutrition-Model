@@ -1,11 +1,3 @@
-# Multi-Food-Nutrition-Model
-A hybrid YOLO + ViT-LSTM deep learning pipeline for multi-food detection, segmentation, and fine-grained food recognition.
-
-
-GitHub repository description এর জন্য এটা ব্যবহার করতে পারো:
-
----
-
 # Multi-Food Recognition Using YOLO + ViT-LSTM Hybrid Deep Learning Pipeline
 
 A hybrid deep learning framework for real-world multi-food recognition using **YOLO-based instance segmentation** and **ViT-LSTM based food classification refinement**.
