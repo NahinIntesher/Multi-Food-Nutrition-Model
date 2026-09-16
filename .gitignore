@@ -23,7 +23,7 @@ outputs/final_segmentation_evaluation/qualitative_masks
 outputs/yolo_testing_only
 
 # Checkpoints
-# checkpoints/
+checkpoints/
 
 # Jupyter temporary files
 # .ipynb_checkpoints/
