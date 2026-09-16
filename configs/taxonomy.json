@@ -1,0 +1,33 @@
+{
+    "rice": "carbohydrate",
+
+    "biriyani": "mixed",
+    "morog_polao": "mixed",
+    "khichuri": "mixed",
+
+    "chicken": "protein",
+    "beef": "protein",
+    "pork": "protein",
+    "fish": "protein",
+    "hilsh_fish": "protein",
+    "egg": "protein",
+    "kebab": "protein",
+    "kala_bhuna": "protein",
+
+    "vegetable": "vegetable",
+    "greens": "vegetable",
+    "salad": "vegetable",
+    "vaji": "vegetable",
+
+    "fruit": "fruit",
+    "orange": "fruit",
+
+    "doi": "dairy",
+    "yogurt": "dairy",
+
+    "bread": "carbohydrate",
+    "ruti": "carbohydrate",
+    "porota": "carbohydrate",
+
+    "dessert": "sweet"
+}

@@ -18,7 +18,9 @@ datasets/
 # *.onnx
 
 # Training outputs
-outputs/
+# outputs/
+outputs/final_segmentation_evaluation/qualitative_masks
+outputs/yolo_testing_only
 
 # Checkpoints
 # checkpoints/
